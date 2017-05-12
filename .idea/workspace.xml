@@ -2,46 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a3f526b-2ecd-439b-9a7c-102ca53d6a91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/src/assets/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/static/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/class.set.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/.eslintrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/.postcssrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/build/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/build/check-versions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/build/dev-client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/build/dev-server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/build/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/build/vue-loader.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/build/webpack.base.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/build/webpack.dev.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/build/webpack.prod.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/build/webpack.test.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/config/dev.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/config/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/config/prod.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/config/test.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/src/App.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/src/components/Hello.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/src/router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/test/e2e/custom-assertions/elementCount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/test/e2e/nightwatch.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/test/e2e/runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/test/e2e/specs/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/test/unit/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/test/unit/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/test/unit/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class.set/test/unit/specs/Hello.spec.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/.eslintrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/.postcssrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/build/check-versions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/build/dev-client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/build/dev-server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/build/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/build/vue-loader.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/build/webpack.base.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/build/webpack.dev.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/build/webpack.prod.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/build/webpack.test.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/config/dev.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/config/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/config/prod.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/config/test.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/src/App.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/src/assets/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/src/components/Hello.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/src/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/src/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/static/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/test/e2e/custom-assertions/elementCount.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/test/e2e/nightwatch.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/test/e2e/runner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/test/e2e/specs/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/test/unit/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/test/unit/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/test/unit/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/class.set/test/unit/specs/Hello.spec.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="class.set.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,10 +117,6 @@
               <option name="myItemId" value="class.set" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="class.set" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -195,12 +189,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494558974422</updated>
-      <workItem from="1494558975797" duration="1797000" />
+      <workItem from="1494558975797" duration="2304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1797000" />
+    <option name="totallyTimeSpent" value="2304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />

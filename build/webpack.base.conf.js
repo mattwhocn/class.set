@@ -9,6 +9,7 @@ function resolve (dir) {
 
 module.exports = {
   entry: {
+    // 界面的入口 main.js
     app: './src/main.js'
   },
   output: {
